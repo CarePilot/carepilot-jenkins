@@ -16,7 +16,7 @@ JENKINS_USER=jenkins
 JENKINS_WAR=/usr/share/jenkins/jenkins.war
 
 # jenkins home location
-JENKINS_HOME=/var/lib/jenkins
+JENKINS_HOME=/home/jenkins
 
 # set this to false if you don't want Hudson to run by itself
 # in this set up, you are expected to provide a servlet container
